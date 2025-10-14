@@ -1,8 +1,11 @@
 Zadania
 
-1. Napisać program wyświetlający w oknie konsoli liczby od 1 do 20 w jednej linijce z odstępami (np. pojedyncza spacja). Zmodyfikować go, żeby wyświetlał wartości od 0, a liczby zajmowały dokładnie 2 pola niezależnie od wartości (np. 1 i 11).
+1. Napisać program wyświetlający w oknie konsoli liczby od 1 do 20 w jednej linijce z odstępami 
+   (np. pojedyncza spacja). Zmodyfikować go, żeby wyświetlał wartości od 0, a liczby zajmowały 
+   dokładnie 2 pola niezależnie od wartości (np. 1 i 11).
 
-2. Zmodyfikować program z p. 1. tak by w drugiej linijce wyświetlane były liczby parzyste, w kolejnej nieparzyste. Poprawić wyświetlanie, tak aby wartości liczbowe były wyrównane tj.
+2. Zmodyfikować program z p. 1. tak by w drugiej linijce wyświetlane były liczby parzyste, 
+   w kolejnej nieparzyste. Poprawić wyświetlanie, tak aby wartości liczbowe były wyrównane tj.
    0  1  2  3  4  5  6  7  8  9 10 11...
    0     2     4     6     8    10   ...
       1     3     5     7     9    11...
@@ -19,3 +22,4 @@ Zadania
   10  9  8  7  6  5  4  3  2  1  0  1  2  3  4  5  6  7  8  9 10
 
 6. Wygenerować w oknie konsoli tabliczkę dodawania i mnożenia dla liczb z zakresu 0-10.
+
