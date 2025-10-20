@@ -1,0 +1,53 @@
+
+Laboratorium 3 - Petle, warunki, wyrazenia, tablice (wstep)
+
+Zdefiniowac w programie stale K, M, N i nadac im wartosci calkowite dodatnie
+wieksze od zera. Wszystkie zadania moga byc realizowane w jednym pliku, te ktore
+juz zostaly zrealizowane mozna zakomentowac (/*...*/). Nie usuwac z kodu!
+
+1. Napisaæ program, który wyswietli na konsoli w linii K znakow 'X', nastepnie
+   wyswietli K znakow, przy czym co M-ty ma byc kropka ('.').
+
+2. Napisac program, ktory wyswietli trojkat postaci (przyklad dla N = 4)
+   X...
+   XX..
+   XXX.
+   XXXX
+
+3. Napisac program, ktory wyswietli kwadrat o boku K (przyklad dla N = 5)
+   XXXXXXX   a nastepnie doda do niego     XXXXXXX
+   X.....X   przekatne tj. ------------->  XX...XX
+   X.....X                                 X.X.X.X
+   X.....X                                 X..X..X
+   X.....X                                 X.X.X.X
+   X.....X                                 XX...XX
+   XXXXXXX                                 XXXXXXX
+
+4. Napisac program, ktory wyswietli trojkat o podstawie M postaci (przyklad dla
+   M=7)
+   ...X...
+   ..XXX..
+   .XXXXX.
+   XXXXXXX
+   Czy na podstawie M mozna oszacowac jego wysokosc? Okresl zaleznosc.
+   Uwaga: dla M parzystego przyjac M+1.
+
+5. Korzystajac z wynikow z p.5. wyswietlic klepsydre o podstawie M, dla
+   przykladu, dla M=7
+   XXXXXXX
+   .XXXXX.
+   ..XXX..
+   ...X...
+   ..XXX..
+   .XXXXX.
+   XXXXXXX
+   Przyjac, ze M moze byc tez parzyste (wtedy w przewezeniu beda dwa znaki XX).
+
+6. Zdefiniowac tablice N elementowa, wypelnic tablice elementami o wartosciach
+   typu int (2*i+1), gdzie i jest indeksem tablicy. Wyœwietliæ na konsoli:
+   rozmiar tablicy w pamieci oraz wszystkie elementy.
+
+7. Napisac fragment kodu zmieniajacego kolejnosc elementow w tablicy tj.
+   ostatnia wartosc ma byc pierwsza, pierwsza ostatnia itd. Wynik wyswietlic
+   na konsoli.
+
