@@ -1,0 +1,34 @@
+/*
+ * Laboratorium 5 - FUNKCJE
+ * =============================================================================
+ *
+ * 1. Zdefiniowac funkcje wyznaczajaca (zwracajaca) wartosc bezwzgledna podanego
+ *    argumentu. W funkcji mile widziany operator '?'.
+ *
+ * 2. Zdefiniowac funkcje, ktora sprawdza czy podany znak jest cyfra, duza
+ *    litera czy mala litera (mozna wykorzystac typ wyliczeniowy, ale uwaga: nie
+ *    da sie w prosty sposob wyswietlic wyniku).
+ *
+ * 3. Zdefiniowac funkcje, ktora wyznacza silnie z podanej liczby metod¹
+ *    klasyczn¹ oraz wykorzystuj¹c rekurencjê.
+ *
+ * 4. Zdefiniowac funkcje, ktora wyznacza sume liczb calkowitych od 1 do n,
+ *    gdzie n jest argumentem funkcji. Sprawdziæ dzia³anie funkcji z modyfikatorem
+ *    constexpr i consteval kiedy parametr jest wprost podany jako wartoœæ lub
+ *    jako zmienna wczytywana z klawiatury.
+ *
+ * 5. Zdefiniowac funkcje wyznaczajaca pole trojkata/trapezu/prostokata/kola
+ *    dla podanych argumentow (osobne lub jedna funkcja; dla jednej funkcji
+ *    argumentem moze byc typ figury - typ wyliczeniowy).
+ *
+ * 6. Zdefiniowac funkcje, ktora wyznacza pierwiastki rownania kwadratowego.
+ *
+ * 7. Zdefiniowaæ funkcjê, która sprawdzi czy podany ³añcuch znaków jest
+ *    palindromem.
+ *
+ * 8. Zadefiniowaæ funkcjê, która przyjmuje dwa argumenty: tablicê liczb
+ *    ca³kowitych oraz jej rozmiar i zwraca sumê wszystkich elementow.
+ *
+ * 9. Zrealizowaæ p. 8. wykorzystuj¹c wektor.
+ *
+ */
