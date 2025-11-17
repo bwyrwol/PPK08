@@ -1,4 +1,4 @@
-; Plik testowy (laboratorium 5)
+; Plik testowy (laboratorium 6)
 ; Kwadrat: bok
 Kwadrat 10
 ;Prostokat: bok1 bok2
@@ -9,4 +9,5 @@ Kolo 23
 Trojkat 10 20
 ; Trapez: podstawa1 podstawa2 wysokosc
 Trapez 10 20 5
+
 
