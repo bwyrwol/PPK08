@@ -1,0 +1,30 @@
+/*
+ * Laboratorium 7 (pliki, strumienie)
+ *
+ * Dokonac podzialu projektu na moduly (pliki *.cpp i *.h) i zgrupowac funkcje
+ * w jednym module (bibliotece).
+ *
+ * 1. Dostepne sa dwa pliki MacierzA.txt oraz MacierzB.txt zawierajace tablice
+ *    dwuwymiarowe (macierze) z przykladowymi liczbami.
+ *    Napisac funkcje, ktora wyznacza
+ *    - wymiary macierzy jaka zapisana jest w okreslonym pliku,
+ *    - sume wszystkich elementow macierzy,
+ *    - wartosc srednia wszystkich elementow,
+ *    - sume elementow znajdujacych sie na przekatnej,
+ *    - sprawdzi czy macierz nie jest zerowa (wszystkie elementy sa zerami).
+ *
+ * 2. Napisac funkcje, ktora wyznaczy sume, roznice, iloczyn, iloraz elementow
+ *    macierzy opisanych w plikach. Macierze musza byc tych samych rozmiarow!
+ *    Jeżeli sa roznych rozmiarow i nie da sie policzyc wyniku, wtedy zwrocic
+ *    wartosc sygnalizujaca, ze nie dalo sie wykonac dzialania.
+ *    Wyniki dzialania zapisac w pliku wyniki.txt.
+ *
+ * 3. Dany jest plik wylacznie z danymi typu int oraz std::string (przyklad
+ *    w pliku plik_tekstowy.txt). Napisac program odczytujacy zawartosc tego pliku
+ *    i zapisujacy poszczegolne elementy tj. liczby i lancuchy znakow w osobnych
+ *    plikach int.txt i string.txt.
+ *    Do konwersji typu std::string na int wykorzystac stringstream. Sprawdzic
+ *    ustawienia znacznikow bledow (rdstate: bad, eof, fail, good), po probie
+ *    konwersji nie zapomniec o kasowaniu bledow (clear()).
+ *
+ */
