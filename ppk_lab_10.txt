@@ -1,7 +1,7 @@
 /*
- * Laboratorium 8
+ * Laboratorium 10
  *
- * W pliku tekstowym znajduj¹ siê rekordy postaci (rozdzielone pustymi liniami)
+ * W pliku tekstowym znajdujÅ¡ siÄ™ rekordy postaci (rozdzielone pustymi liniami)
  * z danymi studentow:
  *
  * [nr albumu]
@@ -33,3 +33,4 @@
  *    - wyznaczenie liczby ocen dla podanego [nr albumu] i [numeru].
  *
  */
+
