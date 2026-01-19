@@ -1,0 +1,46 @@
+/*
+ * Laboratorium 12
+ *
+ * £añcuchy znaków
+ *
+ * 1. Zdefiniowaæ dwa ³añcuchy znaków (char*) i przypisaæ do jednego dowolny
+ *    ci¹g znaków (S1), drugi pozostawiæ pusty (S2). Raz za³o¿yæ, ¿e ³añcuch
+ *    znaków nie bêdzie przekracza³ wartoœci 20, w drugim przypadku dobraæ
+ *    d³ugoœæ ³añcucha dynamicznie (starta). Sprawdziæ ile zajmuj¹ miejsca
+ *    w pamiêci (kiedy sizeof, kiedy trzeba policzyæ znaki). Napisaæ odpowiedni¹
+ *    funkcjê do wyznaczenia d³ugoœci ³añcucha znaków (ASCIIZ).
+ *
+ * 2. Napisaæ funkcjê pozwalaj¹c¹ skopiowaæ zawartoœæ ³añcucha S1 do S2 (analog
+ *    funkcji strcpy()). Wyœwietliæ zawartoœæ ³añcuchów S1 i S2 na konsoli.
+ *
+ * 3. Uzupe³niæ funkcjê z punktu 2, tak aby kopiowanych by³o tylko n znaków
+ *    (n podane jako parametr funkcji).
+ *
+ * 4. Napisaæ funkcjê porównuj¹c¹ dwa dowolne ³añcuchy znaków (analog strcmp()).
+ *
+ * 5. Zmodyfikowaæ funckjê z p. 2 tak, by mo¿na kopiowaæ dowolne dane/struktury
+ *    danych (np. zmienne proste, tablice, struktury, ...).
+ *    Przetestowaæ jej dzia³anie dla dowolnych danych.
+ *
+ * WskaŸniki, inteligentne wskaŸniki
+ *
+ * 6. Zadeklarowaæ strukturê element zawieraj¹c¹: wartoœæ typu int oraz wskaŸnik
+ *    na element.
+ *
+ * 7. Utworzyæ listê jednokierunkow¹ zapêtlon¹ zawieraj¹c¹ elementy
+ *    zadeklarowane w p. 6.
+ *
+ * 8. Dla listy zdefiniowaæ funkcje do jej obs³ugi:
+ *    - wstawianie elementu do listy (przed lub po bie¿¹cym elemencie)
+ *    - przesuwanie wskaŸnika listy w przód lub w ty³
+ *      (zmiana bie¿¹cego po³o¿enia)
+ *    - pobranie elementu z listy (bie¿¹ce po³o¿enie)
+ *    - wyznaczenie liczby elementów
+ *    - usuniêcie elementu (bie¿¹ce po³o¿enie)
+ *    - usuniêcie ca³ej listy (wszystkich elementów)
+ *
+ * Zadania 6-8 zrealizowaæ wykorzystuj¹c surowe wskaŸniki, potem zamieniæ na
+ * inteligentne wskaŸniki.
+ *
+ */
+
