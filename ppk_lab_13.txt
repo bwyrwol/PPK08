@@ -1,0 +1,22 @@
+/*
+ * Laboratorium 13
+ *
+ * 1. Zdefiniowaæ parê przechowuj¹c¹ czas w postaci godzin (0-23) i minut (0-59).
+ *    Napisaæ funkcje do ustawiania czasu, inkrementacji, dekrementacji o 1 min.,
+ *    wyœwietlaj¹c¹ czas w formacie hh:mm (argumentem jest para, zwraca string).
+ *
+ * 2. Zdefiniowaæ kontener wydarzenie jako parê przechowuj¹c¹ parê opisuj¹c¹
+ *    czas (p.1.) oraz ³añcuch znaków (string). Napisaæ funkcje odczytuj¹ce
+ *    i zapisuj¹ce poszczególne elementy.
+ *
+ * 3. Zdefiniowaæ wektor plan_dnia przechowuj¹cy wydarzenia zdefiniowane w p. 2.
+ *    Opracowaæ funkcje: dodaj¹c¹ wydarzenie, usuwaj¹c¹ wydarzenie (o podanym
+ *    czasie lub numerze porz¹dkowym), wyœwietlaj¹c¹ wydarzenie (o podanym czasie
+ *    lub numerze porz¹dkowym), wyœwietlaj¹c¹ wszystkie wydarzenia, sortuj¹c¹
+ *    wydarzenia wg. czasu wyst¹pienia (mo¿na wykorzystaæ funkcjê sort z
+ *    biblioteki <algorithm> i funkcjê lambda).
+ *
+ * 4. Zdefiniowaæ funkcje: zapisuj¹c¹ wszystkie wydarzenia i odczytuj¹c¹
+ *    wszystkie wydarzenia (w pliku binarnym).
+ *
+ */
